@@ -37,7 +37,7 @@
 YandexCloud/
 	- `notebooks/`
 		- `mart_city_top_products_2MRNWT6AE` - ноутбук Zeppelin
-		- `mart_city_top_products.py` - Python-ноутбук
+		- `mart_city_top_products.ipynb` - Python-ноутбук
 	- `screenshots/` - директория со снимками экрана
 	- `.gitignore`
 	- `LICENSE` - MIT License	
