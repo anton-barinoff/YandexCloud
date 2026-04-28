@@ -33,6 +33,7 @@
 - HDFS, S3 (Object Storage), Parquet
 
 ## Структура репозитория
+```
 YandexCloud/
 	- `notebooks/`
 		- `mart_city_top_products_2MRNWT6AE` - ноутбук Zeppelin
@@ -41,3 +42,4 @@ YandexCloud/
 	- `.gitignore`
 	- `LICENSE` - MIT License	
 	- `README.md`
+```
